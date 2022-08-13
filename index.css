@@ -1,0 +1,24 @@
+#search{
+
+}
+#searchButton{
+
+}
+#unorderedList{
+    display: inline-block;
+    align-self: center;
+    border-color: black;
+    border-width: 2pt;
+    border: 1cm;
+    border-radius: 20px;
+    background-color: darkgray;
+}
+#addItem{
+
+}
+.delete{
+
+}
+h4{
+    display: inline;
+}
